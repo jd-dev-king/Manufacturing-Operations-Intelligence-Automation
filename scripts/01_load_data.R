@@ -1,11 +1,11 @@
 library(tidyverse)
 
 # Load the sales data
-sales <- read_csv("data/sales.csv")
+production <- read_csv("data/production.csv")
 
 # Display the first few rows
-print(head(sales))
+print(head(production))
 
 # Display summary information
-glimpse(sales)
+glimpse(production)
 

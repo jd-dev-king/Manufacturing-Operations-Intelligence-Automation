@@ -29,7 +29,7 @@ tryCatch({
   )
 
 
-  source("scripts/03_calculate_kpis.R")
+  source("scripts/03_calculate_manufacturing_kpis.R")
 
   log_message(
     "KPI calculations completed"
@@ -42,15 +42,20 @@ tryCatch({
     "Charts created successfully"
   )
 
+  source("scripts/04_create_manufacturing_charts.R")
+    log_message("Manufacturing charts created successfully")
 
-  source("scripts/05_generate_report.R")
+  source("scripts/05_generate_recommendations.R")
+    log_message("Recommendations submitted successfully")
+
+  source("scripts/06_generate_report.R")
 
   log_message(
     "Report generated successfully"
   )
 
 
-  source("scripts/06_send_email.R")
+  source("scripts/07_send_email.R")
 
   log_message(
     "Email sent successfully"

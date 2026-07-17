@@ -1,0 +1,11 @@
+Date,Line,Batch,Product,Planned_Units,Produced_Units,Rejected_Units,Downtime_Minutes,Labor_Hours,Downtime_Cause
+2026-07-10,Line1,B1001,Product_A,1000,980,15,35,80,Material Delay
+2026-07-10,Line2,B1002,Product_B,1200,1180,22,45,95,Equipment Failure
+2026-07-11,Line1,B1003,Product_A,1000,970,18,55,82,Setup Changeover
+2026-07-11,Line2,B1004,Product_C,1500,1460,30,70,110,Equipment Failure
+2026-07-12,Line1,B1005,Product_B,1100,1090,10,25,90,Operator Delay
+2026-07-12,Line2,B1006,Product_A,1300,1260,35,60,105,Material Delay
+2026-07-13,Line1,B1007,Product_C,1400,1380,20,40,100,Setup Changeover
+2026-07-13,Line2,B1008,Product_B,1250,1210,28,65,98,Equipment Failure
+2026-07-14,Line1,B1009,Product_A,1000,990,12,20,85,Operator Delay
+2026-07-14,Line2,B1010,Product_C,1500,1450,40,90,115,Equipment Failure
