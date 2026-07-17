@@ -22,25 +22,25 @@ This project reduces repetitive work by creating a fully automated reporting wor
 
 
 ## Solution Architecture
-CSV Data
-|
-↓
-Data Loading
-|
-↓
-Data Cleaning
-|
-↓
-KPI Analysis
-|
-↓
-Visualization
-|
-↓
-HTML Report
-|
-↓
-Email Delivery
+  CSV Data
+    |
+    ↓
+  Data Loading
+    |
+    ↓
+  Data Cleaning
+    |
+    ↓
+  KPI Analysis
+    |
+    ↓
+  Visualization
+    |
+    ↓
+  HTML Report
+    |
+    ↓
+  Email Delivery
 
 
 
@@ -120,7 +120,7 @@ This automation can be adapted for:
 
 ### Charts Example
 
-![Charts](charts.png)
+![Charts](images/charts.png)
 
 ### Email and Attachment Example
 
