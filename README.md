@@ -101,14 +101,14 @@ Email Distribution
 
 Click below to watch the dashboard walkthrough:
 
-[▶ Manufacturing Dashboard Demo](assets/Dashboard_Demo.mp4)
+[▶ Manufacturing Dashboard Demo](https://github.com/jd-dev-king/Manufacturing-Operations-Intelligence-Automation/raw/main/assets/Dashboard_Demo.mp4)
 
 
 ### HTML File
 
 Click below to watch the HTML exploration:
 
-[▶ Manufacturing HTML Demo](assets/HTML_Demo.mp4)
+[▶ Manufacturing HTML Demo](https://github.com/jd-dev-king/Manufacturing-Operations-Intelligence-Automation/raw/main/assets/HTML_Demo.mp4)
 
 ### Charts
 
