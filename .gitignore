@@ -1,0 +1,20 @@
+# R files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# Email credentials (SECRET)
+gmail_credentials
+
+# Logs
+logs/
+
+# Temporary reports
+*.html
+
+# OS files
+.DS_Store
+Thumbs.db
